@@ -1,0 +1,201 @@
+{
+  "cleanSuffixes": [
+    "-EQ",
+    "-BE",
+    "-BZ",
+    "-SM",
+    "-ST"
+  ],
+  "exchangeSuffixes": {
+    "NSE": ".NS",
+    "BSE": ".BO",
+    "LSE": ".L",
+    "TSE": ".TO",
+    "HKEX": ".HK",
+    "SSE": ".SS",
+    "SZSE": ".SZ",
+    "ASX": ".AX",
+    "JPX": ".T",
+    "FRA": ".F",
+    "EPA": ".PA",
+    "AMS": ".AS",
+    "SWX": ".SW"
+  },
+  "mappings": {
+    "RELIANCE": [
+      "RELIANCE INDUSTRIES",
+      "RELIANCE INDUSTRIES LTD",
+      "RELIANCE INDUSTRIES LIMITED",
+      "RELIANCE.NS"
+    ],
+    "TCS": [
+      "TATA CONSULTANCY",
+      "TATA CONSULTANCY SERVICES",
+      "TATA CONSULTANCY SERVICES LTD",
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "TCS.NS"
+    ],
+    "INFY": [
+      "INFOSYS",
+      "INFOSYS LTD",
+      "INFOSYS LIMITED",
+      "INFY.NS"
+    ],
+    "HDFCBANK": [
+      "HDFC BANK",
+      "HDFC BANK LTD",
+      "HDFC BANK LIMITED",
+      "HDFCBANK.NS"
+    ],
+    "ICICIBANK": [
+      "ICICI BANK",
+      "ICICI BANK LTD",
+      "ICICI BANK LIMITED",
+      "ICICIBANK.NS"
+    ],
+    "ITC": [
+      "ITC",
+      "ITC LTD",
+      "ITC LIMITED",
+      "ITC.NS"
+    ],
+    "ETERNAL": [
+      "ZOMATO",
+      "ZOMATO LTD",
+      "ZOMATO LIMITED",
+      "ZOMATO.NS",
+      "ZOMATO LTD.",
+      "ETERNAL",
+      "ETERNAL LTD",
+      "ETERNAL LIMITED",
+      "ETERNAL.NS",
+      "ETERNAL LTD."
+    ],
+    "TATAMOTORS": [
+      "TATA MOTORS",
+      "TATA MOTORS LTD",
+      "TATA MOTORS LIMITED",
+      "TATAMOTORS.NS"
+    ],
+    "DABUR": [
+      "DABUR INDIA",
+      "DABUR INDIA LTD",
+      "DABUR INDIA LIMITED",
+      "DABUR.NS"
+    ],
+    "HINDALCO": [
+      "HINDALCO INDUSTRIES",
+      "HINDALCO INDUSTRIES LTD",
+      "HINDALCO INDUSTRIES LIMITED",
+      "HINDALCO.NS"
+    ],
+    "MGL": [
+      "MAHANAGAR GAS",
+      "MAHANAGAR GAS LTD",
+      "MAHANAGAR GAS LIMITED",
+      "MGL.NS"
+    ],
+    "IRCTC": [
+      "INDIAN RAILWAY CATERING & TOURISM CORPORATION",
+      "INDIAN RAILWAY CATERING & TOURISM CORPORATION LTD",
+      "INDIAN RAILWAY CATERING AND TOURISM CORPORATION LIMITED",
+      "IRCTC.NS"
+    ],
+    "HDFC": [
+      "HOUSING DEVELOPMENT FINANCE CORPORATION",
+      "HOUSING DEVELOPMENT FINANCE CORPORATION LTD",
+      "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED",
+      "HDFC.NS"
+    ],
+    "JUBLFOOD": [
+      "JUBILANT FOODWORKS",
+      "JUBILANT FOODWORKS LTD",
+      "JUBILANT FOODWORKS LIMITED",
+      "JUBLFOOD.NS"
+    ],
+    "ASIANPAINT": [
+      "ASIAN PAINTS",
+      "ASIAN PAINTS LTD",
+      "ASIAN PAINTS LIMITED",
+      "ASIANPAINT.NS"
+    ],
+    "MS": [
+      "MORGAN STANLEY",
+      "MORGAN STANLEY INC",
+      "MORGAN STANLEY DIVIDEND REINVESTMENT",
+      "MS"
+    ],
+    "AAPL": [
+      "APPLE",
+      "APPLE INC",
+      "APPLE INC DIVIDEND REINVESTMENT",
+      "AAPL"
+    ],
+    "GOOG": [
+      "ALPHABET",
+      "ALPHABET INC",
+      "ALPHABET INC CL C",
+      "ALPHABET INC CL C DIVIDEND REINVESTMENT",
+      "GOOG"
+    ],
+    "STZ": [
+      "CONSTELLATION BRANDS",
+      "CONSTELLATION BRANDS INC",
+      "CONSTELLATION BRANDS INC CL A",
+      "CONSTELLATION BRANDS INC CL A DIVIDEND REINVESTMENT",
+      "STZ"
+    ],
+    "WMT": [
+      "WALMART",
+      "WALMART INC",
+      "WALMART INC DIVIDEND REINVESTMENT",
+      "WMT"
+    ],
+    "UNITDSPR": [
+      "UNITED SPIRITS",
+      "UNITED SPIRITS LTD",
+      "UNITED SPIRITS LIMITED",
+      "UNITEDSPIRITS.NS"
+    ],
+    "HINDUNILVR": [
+      "HINDUSTAN UNILEVER",
+      "HINDUSTAN UNILEVER LTD",
+      "HINDUSTAN UNILEVER LIMITED",
+      "HINDUNILVR.NS"
+    ],
+    "GAIL": [
+      "GAIL",
+      "GAIL INDIA",
+      "GAIL INDIA LTD",
+      "GAIL (INDIA) LIMITED",
+      "GAIL.NS"
+    ],
+    "JIOFIN": [
+      "JIO FINANCIAL SERVICES",
+      "JIO FINANCIAL SERVICES LTD",
+      "JIO FINANCIAL SERVICES LIMITED",
+      "JIOFIN.NS"
+    ],
+    "ITCHOTELS": [
+      "INDIAN HOTELS",
+      "INDIAN HOTELS LTD",
+      "INDIAN HOTELS LTD.",
+      "INDIAN HOTELS LIMITED",
+      "ITCHOTELS.NS"
+    ],
+    "GRAVITA": [
+      "GRAVITA INDIA",
+      "GRAVITA INDIA LTD",
+      "GRAVITA INDIA LIMITED",
+      "GRAVITA.NS",
+      "533282.BO"
+    ],
+    "NOVARTIND": [
+    "NOVARTIS INDIA",
+    "NOVARTIS INDIA LTD",
+    "NOVARTIS INDIA LIMITED",
+    "NOVARTIND.NS",
+    "500672.BO"
+]
+  }
+}
