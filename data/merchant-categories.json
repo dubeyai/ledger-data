@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "updatedAt": "2026-03-12T00:00:00Z",
+  "nodes": [
+    {
+      "term": "amazon fresh",
+      "category": "GROCERIES",
+      "type": "expense",
+      "votes": 42,
+      "children": []
+    },
+    {
+      "term": "amazon prime",
+      "category": "ENTERTAINMENT",
+      "type": "expense",
+      "votes": 88,
+      "children": []
+    },
+    {
+      "term": "amazon",
+      "category": "SHOPPING",
+      "type": "expense",
+      "votes": 210,
+      "children": [
+        {
+          "term": "amazon fresh",
+          "category": "GROCERIES",
+          "type": "expense",
+          "votes": 42,
+          "children": []
+        },
+        {
+          "term": "amazon prime",
+          "category": "ENTERTAINMENT",
+          "type": "expense",
+          "votes": 88,
+          "children": []
+        }
+      ]
+    },
+    {
+      "term": "zomato",
+      "category": "FOOD",
+      "type": "expense",
+      "votes": 195,
+      "children": [
+        {
+          "term": "zomato gold",
+          "category": "ENTERTAINMENT",
+          "type": "expense",
+          "votes": 31,
+          "children": []
+        }
+      ]
+    },
+    {
+      "term": "swiggy",
+      "category": "FOOD",
+      "type": "expense",
+      "votes": 180,
+      "children": [
+        {
+          "term": "swiggy instamart",
+          "category": "GROCERIES",
+          "type": "expense",
+          "votes": 65,
+          "children": []
+        }
+      ]
+    },
+    {
+      "term": "blinkit",
+      "category": "GROCERIES",
+      "type": "expense",
+      "votes": 140,
+      "children": []
+    },
+    {
+      "term": "bigbasket",
+      "category": "GROCERIES",
+      "type": "expense",
+      "votes": 130,
+      "children": []
+    },
+    {
+      "term": "zepto",
+      "category": "GROCERIES",
+      "type": "expense",
+      "votes": 95,
+      "children": []
+    },
+    {
+      "term": "flipkart",
+      "category": "SHOPPING",
+      "type": "expense",
+      "votes": 175,
+      "children": []
+    },
+    {
+      "term": "netflix",
+      "category": "ENTERTAINMENT",
+      "type": "expense",
+      "votes": 160,
+      "children": []
+    },
+    {
+      "term": "hotstar",
+      "category": "ENTERTAINMENT",
+      "type": "expense",
+      "votes": 115,
+      "children": []
+    },
+    {
+      "term": "spotify",
+      "category": "ENTERTAINMENT",
+      "type": "expense",
+      "votes": 105,
+      "children": []
+    },
+    {
+      "term": "uber",
+      "category": "TRANSPORT",
+      "type": "expense",
+      "votes": 190,
+      "children": [
+        {
+          "term": "uber eats",
+          "category": "FOOD",
+          "type": "expense",
+          "votes": 22,
+          "children": []
+        }
+      ]
+    },
+    {
+      "term": "ola",
+      "category": "TRANSPORT",
+      "type": "expense",
+      "votes": 170,
+      "children": []
+    },
+    {
+      "term": "rapido",
+      "category": "TRANSPORT",
+      "type": "expense",
+      "votes": 85,
+      "children": []
+    },
+    {
+      "term": "irctc",
+      "category": "TRAVEL",
+      "type": "expense",
+      "votes": 145,
+      "children": []
+    },
+    {
+      "term": "makemytrip",
+      "category": "TRAVEL",
+      "type": "expense",
+      "votes": 120,
+      "children": []
+    },
+    {
+      "term": "airtel",
+      "category": "TELECOM",
+      "type": "expense",
+      "votes": 150,
+      "children": []
+    },
+    {
+      "term": "jio",
+      "category": "TELECOM",
+      "type": "expense",
+      "votes": 200,
+      "children": []
+    },
+    {
+      "term": "dmart",
+      "category": "GROCERIES",
+      "type": "expense",
+      "votes": 155,
+      "children": []
+    },
+    {
+      "term": "reliance fresh",
+      "category": "GROCERIES",
+      "type": "expense",
+      "votes": 90,
+      "children": []
+    },
+    {
+      "term": "pharmeasy",
+      "category": "HEALTH & MEDICAL",
+      "type": "expense",
+      "votes": 75,
+      "children": []
+    },
+    {
+      "term": "netmeds",
+      "category": "HEALTH & MEDICAL",
+      "type": "expense",
+      "votes": 68,
+      "children": []
+    },
+    {
+      "term": "apollo pharmacy",
+      "category": "HEALTH & MEDICAL",
+      "type": "expense",
+      "votes": 80,
+      "children": []
+    },
+    {
+      "term": "apollo",
+      "category": "HEALTH & MEDICAL",
+      "type": "expense",
+      "votes": 70,
+      "children": [
+        {
+          "term": "apollo pharmacy",
+          "category": "HEALTH & MEDICAL",
+          "type": "expense",
+          "votes": 80,
+          "children": []
+        }
+      ]
+    },
+    {
+      "term": "groww",
+      "category": "INVESTMENT",
+      "type": "expense",
+      "votes": 110,
+      "children": []
+    },
+    {
+      "term": "zerodha",
+      "category": "INVESTMENT",
+      "type": "expense",
+      "votes": 125,
+      "children": []
+    },
+    {
+      "term": "myntra",
+      "category": "SHOPPING",
+      "type": "expense",
+      "votes": 140,
+      "children": []
+    },
+    {
+      "term": "nykaa",
+      "category": "PERSONAL CARE",
+      "type": "expense",
+      "votes": 95,
+      "children": []
+    },
+    {
+      "term": "decathlon",
+      "category": "SHOPPING",
+      "type": "expense",
+      "votes": 88,
+      "children": []
+    }
+  ]
+}
