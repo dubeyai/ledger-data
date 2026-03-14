@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-14T16:19:12.079Z",
+  "updatedAt": "2026-03-14T21:00:02.912Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -274,8 +274,8 @@
       "children": []
     },
     {
-      "term": "groceries",
-      "category": "GROCERIES",
+      "term": "for gas",
+      "category": "TRAVEL",
       "type": "expense",
       "votes": 1,
       "children": []
