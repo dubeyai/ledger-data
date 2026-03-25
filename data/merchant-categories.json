@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T11:06:05.518Z",
+  "updatedAt": "2026-03-25T11:08:07.183Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -290,6 +290,13 @@
     {
       "term": "pharmacy",
       "category": "HEALTH & MEDICAL",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "grocery",
+      "category": "GROCERIES",
       "type": "expense",
       "votes": 1,
       "children": []
