@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T10:56:10.233Z",
+  "updatedAt": "2026-03-26T12:05:49.402Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -316,22 +316,8 @@
       "children": []
     },
     {
-      "term": "car monthly",
-      "category": "TRANSPORT",
-      "type": "expense",
-      "votes": 1,
-      "children": []
-    },
-    {
-      "term": "internet",
-      "category": "TELECOM",
-      "type": "expense",
-      "votes": 1,
-      "children": []
-    },
-    {
-      "term": "pseg",
-      "category": "UTILITIES",
+      "term": "movie",
+      "category": "ENTERTAINMENT",
       "type": "expense",
       "votes": 1,
       "children": []
