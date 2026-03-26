@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T02:31:27.978Z",
+  "updatedAt": "2026-03-26T10:46:19.311Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -316,8 +316,8 @@
       "children": []
     },
     {
-      "term": "walmart",
-      "category": "GROCERIES",
+      "term": "car monthly",
+      "category": "TRANSPORT",
       "type": "expense",
       "votes": 1,
       "children": []
