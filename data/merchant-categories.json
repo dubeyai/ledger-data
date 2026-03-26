@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-25T11:10:07.290Z",
+  "updatedAt": "2026-03-26T02:31:27.978Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -311,6 +311,13 @@
     {
       "term": "statue of",
       "category": "ENTERTAINMENT",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "walmart",
+      "category": "GROCERIES",
       "type": "expense",
       "votes": 1,
       "children": []
