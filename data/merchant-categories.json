@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T10:55:12.475Z",
+  "updatedAt": "2026-03-26T10:56:10.233Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -325,6 +325,13 @@
     {
       "term": "internet",
       "category": "TELECOM",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "pseg",
+      "category": "UTILITIES",
       "type": "expense",
       "votes": 1,
       "children": []
