@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T10:46:19.311Z",
+  "updatedAt": "2026-03-26T10:55:12.475Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -318,6 +318,13 @@
     {
       "term": "car monthly",
       "category": "TRANSPORT",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "internet",
+      "category": "TELECOM",
       "type": "expense",
       "votes": 1,
       "children": []
