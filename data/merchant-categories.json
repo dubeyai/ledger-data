@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-28T18:07:00.337Z",
+  "updatedAt": "2026-03-28T18:07:30.684Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -324,6 +324,13 @@
     },
     {
       "term": "cava",
+      "category": "RESTAURANTS",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "cava veg",
       "category": "RESTAURANTS",
       "type": "expense",
       "votes": 1,
