@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26T12:05:49.402Z",
+  "updatedAt": "2026-03-28T18:07:00.337Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -318,6 +318,13 @@
     {
       "term": "movie",
       "category": "ENTERTAINMENT",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "cava",
+      "category": "RESTAURANTS",
       "type": "expense",
       "votes": 1,
       "children": []
