@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-29T00:52:09.904Z",
+  "updatedAt": "2026-03-29T18:30:51.446Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -270,7 +270,7 @@
       "term": "sam's club",
       "category": "GROCERIES",
       "type": "expense",
-      "votes": 1,
+      "votes": 2,
       "children": []
     },
     {
