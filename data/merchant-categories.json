@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-29T18:30:55.984Z",
+  "updatedAt": "2026-04-02T14:11:02.034Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -332,6 +332,13 @@
     {
       "term": "desi chaurasia",
       "category": "FOOD",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "recharge",
+      "category": "TELECOM",
       "type": "expense",
       "votes": 1,
       "children": []
