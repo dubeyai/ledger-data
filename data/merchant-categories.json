@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02T14:11:02.034Z",
+  "updatedAt": "2026-04-03T19:50:58.265Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -339,6 +339,13 @@
     {
       "term": "recharge",
       "category": "TELECOM",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "apartment rent",
+      "category": "RENT",
       "type": "expense",
       "votes": 1,
       "children": []
