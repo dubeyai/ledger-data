@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T19:50:58.265Z",
+  "updatedAt": "2026-04-03T19:52:20.597Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -347,7 +347,7 @@
       "term": "apartment rent",
       "category": "RENT",
       "type": "expense",
-      "votes": 1,
+      "votes": 2,
       "children": []
     }
   ]
