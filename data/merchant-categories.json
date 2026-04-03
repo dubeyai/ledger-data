@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T19:55:16.737Z",
+  "updatedAt": "2026-04-03T21:38:51.194Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -344,10 +344,10 @@
       "children": []
     },
     {
-      "term": "apartment rent",
-      "category": "RENT",
+      "term": "for ups",
+      "category": "UTILITIES",
       "type": "expense",
-      "votes": 4,
+      "votes": 1,
       "children": []
     }
   ]
