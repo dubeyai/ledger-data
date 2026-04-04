@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T21:38:51.194Z",
+  "updatedAt": "2026-04-04T00:54:14.315Z",
   "nodes": [
     {
       "term": "amazon fresh",
@@ -346,6 +346,13 @@
     {
       "term": "for ups",
       "category": "UTILITIES",
+      "type": "expense",
+      "votes": 1,
+      "children": []
+    },
+    {
+      "term": "walmart",
+      "category": "GROCERIES",
       "type": "expense",
       "votes": 1,
       "children": []
